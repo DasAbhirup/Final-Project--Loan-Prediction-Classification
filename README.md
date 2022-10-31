@@ -1,6 +1,7 @@
 # Final-Project--Loan-Prediction-Classification
 
 Loan Status Prediction:
+
 i. This is a Property Loan Status Prediction dataset, we have the data of applicants who had previously applied for the loan based on the property and applicant-based metrics.
 
 ii. The bank will decide whether to give a loan to the applicant based on some factors such as Applicant Income, Loan Amount, previous Credit History, Co-applicant Income, etc.
